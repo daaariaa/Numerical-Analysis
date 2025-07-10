@@ -32,5 +32,5 @@
 - 💽 [Operating Systems](./Sem4/OS)
 - 🎲 [Probability Theory](./Sem4/Probability%20theory)
 - 🟰 [Real Analysis](./Sem4/Real%20analysis)
-- 🔗 [Databases management system](./Sem4/Databases%20management%20system)
+- 🔗 [Databases management system](./Sem4/Database%20management%20system)
 - ⚙️ [Theoretical Mechanics](./Sem4/Theoretical%20Mechanics)
