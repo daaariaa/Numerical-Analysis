@@ -5,7 +5,7 @@
 
 - ➕ [Algebra 1](./Sem1/Algebra%201)
 - 💡 [Algorithms and Programming](./Sem1/Algorithms%20and%20programming)
-- 📐 [Analytic Geometry](./Sem1/Analytic%20Geometry)
+- 📐 [Analytic Geometry](./Sem1/Analytic%20geometry)
 - 📈 [Calculus 1 (Calculus on R)](./Sem1/Calculus%201%20%28Calculus%20on%20R%29)
 - 🧠 [Mathematical Logic and Set Theory](./Sem1/Mathematical%20logic%20and%20set%20theory)
 
@@ -33,4 +33,4 @@
 - 🎲 [Probability Theory](./Sem4/Probability%20theory)
 - 🟰 [Real Analysis](./Sem4/Real%20analysis)
 - 🔗 [Databases management system](./Sem4/Database%20management%20system)
-- ⚙️ [Theoretical Mechanics](./Sem4/Theoretical%20Mechanics)
+- ⚙️ [Theoretical Mechanics](./Sem4/Theoretical%20mechanics)
