@@ -7,7 +7,7 @@
 - 💡 [Algorithms and Programming](./Sem1/Algorithms%20and%20programming)
 - 📐 [Analytic Geometry](./Sem1/Analytic%20Geometry)
 - 📈 [Calculus 1 (Calculus on R)](./Sem1/Calculus%201%20%28Calculus%20on%20R%29)
-- 🧠 [Mathematical Logic and Set Theory](./Sem1/Mathematical%20Logic%20and%20set%20theory)
+- 🧠 [Mathematical Logic and Set Theory](./Sem1/Mathematical%20logic%20and%20set%20theory)
 
 ## Sem2
 
